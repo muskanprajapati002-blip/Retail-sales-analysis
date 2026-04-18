@@ -3,7 +3,8 @@ SQL analysis identifying why a $2.3M revenue business maintains only 12.47% prof
 
 
 # 🛒 Retail Superstore Sales Analysis
-**Tools:** MySQL · Excel · Power BI  
+**Tools:** MySQL · Excel · Tableau
+- Dashboard screenshot available on GitHub
 **Dataset:** [Sample Superstore Dataset — Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
 **Records Analyzed:** 9,994 orders · 4 years (2014–2017) · 3 categories · 4 regions
 
@@ -176,7 +177,7 @@ September through December drives disproportionate revenue every year. Allocatin
 ## Author
 
 **Muskan Prajapati**  
-Aspiring Data Analyst | SQL · Power BI · Excel  
+Aspiring Data Analyst | SQL · Tableau · Excel  
 📧 muskanprajapati002@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/muskan-prajapati-6201b0231/)
 
