@@ -4,7 +4,7 @@ SQL analysis identifying why a $2.3M revenue business maintains only 12.47% prof
 
 # 🛒 Retail Superstore Sales Analysis
 **Tools:** MySQL · Excel · Tableau
-- Dashboard screenshot available on GitHub
+**Dashboard screenshot available on GitHub**
 **Dataset:** [Sample Superstore Dataset — Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
 **Records Analyzed:** 9,994 orders · 4 years (2014–2017) · 3 categories · 4 regions
 
